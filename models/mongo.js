@@ -6,7 +6,7 @@ class Model {
   }
 
   jsonSchema() {
-    console.log(typeof this.schema.jsonSchema);
+    // console.log(typeof this.schema.jsonSchema);
     return typeof this.schema.jsonSchema === 'function' ? this.schema.jsonSchema() : {};
   }
 

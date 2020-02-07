@@ -1,11 +1,12 @@
+/* eslint-disable camelcase */
 'use strict';
 
-const ctegories_schema = require('./categories-schema.js');
+const categories_schema = require('./categories-schema.js');
 const Model = require('../mongo.js');
 
 class Categories extends Model {
   constructor() {
-    super(ctegories_schema);
+    super(categories_schema);
   }
 }
 

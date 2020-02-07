@@ -1,3 +1,4 @@
+/* eslint-disable camelcase */
 'use strict';
 
 const products_schema = require('./products-schema.js');
