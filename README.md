@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/Ahmad-Sawalqeh/express-routers/pull/1)
-- [ci/cd]() (GitHub Actions)
+- [ci/cd](https://github.com/Ahmad-Sawalqeh/express-routers/runs/432044968?check_suite_focus=true) (GitHub Actions)
 
 ### Setup
 run `npm i`
